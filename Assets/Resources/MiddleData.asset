@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: MiddleData
+  m_EditorClassIdentifier: 
+  categoryName: Middle
+  questions:
+  - questionInfo: ' what is this job?'
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 0f54fc20786867b4b9d6b8eeae65390c, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Doctor
+    - Nurse
+    - Dentist
+    - Engineer
+    correctAns: Doctor
+  - questionInfo: what's this?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 0ba73ebc269fc4644a3b7c5a66742a8a, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Eraser
+    - Rubbish
+    - Rulers
+    - Tall
+    correctAns: Rulers
+  - questionInfo: What is the girl doing?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: ac84f94545459a54bb4400ba1433bf72, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Swimming
+    - riding a bike
+    - Dancing
+    - Taking a photos
+    correctAns: Taking a photos
+  - questionInfo: what color is this?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: dc3a3ed5c46d9594198125bcdea00837, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Green
+    - Purple
+    - Pink
+    - blue
+    correctAns: Purple
+  - questionInfo: What is the weather like ?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 05a9457ef68c8c743ac7e0308784a67f, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Cloud
+    - Sun
+    - Rainy
+    - Snowy
+    correctAns: Cloud
+  - questionInfo: what vehicle is this?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: dcf9a93ef7a2cb74b8323c9198df9d58, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Plane
+    - Car
+    - Bus
+    - Bike
+    correctAns: Bus
+  - questionInfo: What is this job ?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: c425256c26966734aa3fe51eb691a009, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Police
+    - vet
+    - Teacher
+    - Nurse
+    correctAns: Police
+  - questionInfo: What is the weather like ?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 822de2908209ae1458604ee231477ae1, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Cloud
+    - Sun
+    - Rainy
+    - Snowy
+    correctAns: Sun
+  - questionInfo: What is the boy doing?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: e401e204e9ca87d419e8d2e5288e0823, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Surfing the web
+    - Reading a book
+    - Listening to music
+    - Playing music
+    correctAns: Playing music
+  - questionInfo: What's this?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 0b061cfa5fe39834c9b4000d0ce16c65, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Pen
+    - Book
+    - Notebook
+    - Pencilcase
+    correctAns: Notebook

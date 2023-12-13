@@ -1,0 +1,181 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: HardData
+  m_EditorClassIdentifier: 
+  categoryName: Hard
+  questions:
+  - questionInfo: 
+    questionType: 2
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 8300000, guid: 983580da394d3a04882a0efdeb549fe1, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - Chin
+    - Chest
+    - Chen
+    - Choose
+    correctAns: Chin
+  - questionInfo: 
+    questionType: 2
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 8300000, guid: 58b3787a545eeea4d96bebe5ba245ac8, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - Know
+    - Knee
+    - Knne
+    - New
+    correctAns: Knee
+  - questionInfo: What is the opposite of autumn?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: c5c2451412f429f4aa02a3b13669c658, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Autumn
+    - Summer
+    - Spring
+    - Winter
+    correctAns: Spring
+  - questionInfo: What is the opposite of winter?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 79cd980af6ffe32459ea59acd6b7155d, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Summer
+    - Autumn
+    - Spring
+    - Sumer
+    correctAns: Summer
+  - questionInfo: What color is obtained with blue and yellow?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Pink
+    - Orange
+    - Black
+    - Green
+    correctAns: Green
+  - questionInfo: What color is obtained with red and yellow?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Blue
+    - Brown
+    - Orange
+    - Green
+    correctAns: Orange
+  - questionInfo: what part of our body is this?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: cbbcbbdea69502a4a9bf27e5872e10e6, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Shoulder
+    - Eyes
+    - Stomach
+    - Neck
+    correctAns: Neck
+  - questionInfo: what part of our body is this?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 20af44ebe30b61140a8e56357f6fbec5, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Bus
+    - Bear
+    - Buttocks
+    - Buttock
+    correctAns: Buttocks
+  - questionInfo: what is the vegetables in the picture?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 689b61b931d622e478594346f95b9206, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Zucchini
+    - Radish
+    - Pineapple
+    - Melon
+    correctAns: Zucchini
+  - questionInfo: what is the fruit in the picture?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 54056d425dc7d7849b88beb9fa58fd44, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Watermelon
+    - Melon
+    - Blueberries
+    - Blueberies
+    correctAns: Blueberries
+  - questionInfo: What animal does this sound belong to?
+    questionType: 2
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 8300000, guid: 01f1b7bf136bb2e4491ff216fad6d684, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - Lion
+    - Panda
+    - Tiger
+    - Wolf
+    correctAns: Wolf
+  - questionInfo: Quess the animal?
+    questionType: 3
+    questionImage: {fileID: 21300000, guid: 7a07241ec9d50c14583bf87319426eb2, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 32900000, guid: 532166cfd4456b040bf2f9d173ceb58c, type: 3}
+    options:
+    - Dog
+    - Cat
+    - Monkey
+    - Whale
+    correctAns: Cat
+  - questionInfo: Quess the animal?
+    questionType: 2
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 8300000, guid: e2e9865d907fe4b4db6b70550ccee95a, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - Dog
+    - Elephant
+    - Pig
+    - Snake
+    correctAns: Pig
+  - questionInfo: 
+    questionType: 2
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 8300000, guid: c42ec5579597a7e4fb4799cf5d70335c, type: 3}
+    videoClip: {fileID: 0}
+    options:
+    - Kangaroo
+    - Singing
+    - Skateboarding
+    - Skatebording
+    correctAns: Skateboarding
+  - questionInfo: what is the girl doing?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: ef8fca43ba8b4854692022b854862323, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Kangaroo
+    - Cooking
+    - Have a rest
+    - Draw Picure
+    correctAns: Cooking

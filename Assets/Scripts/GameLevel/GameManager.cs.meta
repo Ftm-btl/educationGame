@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: a57d38a9afe541946b4464c50a2ebe4e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gamePrefab: {instanceID: 0}
+  - gamePlayPanel: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

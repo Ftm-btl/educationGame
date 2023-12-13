@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: EasyData
+  m_EditorClassIdentifier: 
+  categoryName: Easy
+  questions:
+  - questionInfo: GL_E
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 44fc192b665fc6c48a93dfa255aa3287, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - U
+    - O
+    - A
+    - L
+    correctAns: U
+  - questionInfo: F_SH
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 331b3d79b3ff1d448bec682d91e0a74b, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - I
+    - "\u0130"
+    - "\xD6"
+    - E
+    correctAns: I
+  - questionInfo: EAR_?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 240b8fb481449664f81a269b67e2c62e, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - S
+    - K
+    - L
+    - Y
+    correctAns: S
+  - questionInfo: What is this?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 3220ef58692327945873123aed3cfd22, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Bag
+    - Bowl
+    - Ball
+    - Bal
+    correctAns: Ball
+  - questionInfo: S_AR
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: ea551457e72cee54d8e74ff0c7db022c, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - T
+    - M
+    - P
+    - W
+    correctAns: T

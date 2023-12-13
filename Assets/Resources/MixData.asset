@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33b762a7796d94449896cd40528add32, type: 3}
+  m_Name: MixData
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: 21300000, guid: 585fc1b3a14d0534285f4e49a0da2dfc, type: 3}
+    answer: "b\u0131ke"
+  - questionImage: {fileID: 21300000, guid: 7fdaaa84ee849e6458a7629184a3ca23, type: 3}
+    answer: blue
+  - questionImage: {fileID: 21300000, guid: dcf9a93ef7a2cb74b8323c9198df9d58, type: 3}
+    answer: bus
+  - questionImage: {fileID: 21300000, guid: 336d451cfe061ef48a048efdbd53829c, type: 3}
+    answer: cap
+  - questionImage: {fileID: 21300000, guid: 05a9457ef68c8c743ac7e0308784a67f, type: 3}
+    answer: cloud
+  - questionImage: {fileID: 21300000, guid: ef8fca43ba8b4854692022b854862323, type: 3}
+    answer: "cook\u0131ng"
+  - questionImage: {fileID: 21300000, guid: 0f54fc20786867b4b9d6b8eeae65390c, type: 3}
+    answer: doctor
+  - questionImage: {fileID: 21300000, guid: 240b8fb481449664f81a269b67e2c62e, type: 3}
+    answer: ears
+  - questionImage: {fileID: 21300000, guid: f2f084d2b40eb2f45b5b055e1689678e, type: 3}
+    answer: "eng\u0131neer"
+  - questionImage: {fileID: 21300000, guid: 9be1408fb4e979f47b9e32e187e366f7, type: 3}
+    answer: eraser
+  - questionImage: {fileID: 21300000, guid: 49214fcececa65544b12087ced5ddde2, type: 3}
+    answer: eyes
+  - questionImage: {fileID: 21300000, guid: 6ba897d47ae01334bbe2bb4170b03f1b, type: 3}
+    answer: globe
+  - questionImage: {fileID: 21300000, guid: b36b45b3f6fda1f44b1ba294f894eb20, type: 3}
+    answer: green
+  - questionImage: {fileID: 21300000, guid: 44fab14657aa18a428db95b1630d8ee7, type: 3}
+    answer: "ha\u0131r"
+  - questionImage: {fileID: 21300000, guid: 496c9988fa4162e4a9843b22930b7ef2, type: 3}
+    answer: judge
+  - questionImage: {fileID: 21300000, guid: ccd17bfd90e4dd849a5eb8ec0db2aed8, type: 3}
+    answer: moon
+  - questionImage: {fileID: 21300000, guid: b560a2d255827fe409b8afc7de14ba8b, type: 3}
+    answer: mouth
+  - questionImage: {fileID: 21300000, guid: 0b061cfa5fe39834c9b4000d0ce16c65, type: 3}
+    answer: notebook
+  - questionImage: {fileID: 21300000, guid: 748dd3cf49879e841ae6e5f2462016c2, type: 3}
+    answer: pants
+  - questionImage: {fileID: 21300000, guid: 1281ddb204d706e47a993081ee270f75, type: 3}
+    answer: plane
+  - questionImage: {fileID: 21300000, guid: dc3a3ed5c46d9594198125bcdea00837, type: 3}
+    answer: purple
+  - questionImage: {fileID: 21300000, guid: 7307b3dd2f1eb5048a2252998804ebfd, type: 3}
+    answer: "read\u0131ng"
+  - questionImage: {fileID: 21300000, guid: 0a815a51aeb54cf4e8b0d3fc95a87a7e, type: 3}
+    answer: red
+  - questionImage: {fileID: 21300000, guid: 0ba73ebc269fc4644a3b7c5a66742a8a, type: 3}
+    answer: rulers
+  - questionImage: {fileID: 21300000, guid: b688097f6e0501e498d5020d16c5e949, type: 3}
+    answer: "sh\u0131p"
+  - questionImage: {fileID: 21300000, guid: d6a066fbd8ea27544ab800ec8acaf3df, type: 3}
+    answer: sneakers
+  - questionImage: {fileID: 21300000, guid: ab7497139cfd4fc429a3a80e6afdf924, type: 3}
+    answer: socks
+  - questionImage: {fileID: 21300000, guid: ea551457e72cee54d8e74ff0c7db022c, type: 3}
+    answer: star
+  - questionImage: {fileID: 21300000, guid: 822de2908209ae1458604ee231477ae1, type: 3}
+    answer: sun
+  - questionImage: {fileID: 21300000, guid: 6c876136f4e86e44dadf391622ae74f8, type: 3}
+    answer: "sw\u0131mm\u0131ng"
+  - questionImage: {fileID: 21300000, guid: beafdd41fb839aa418b8fd7debf211fa, type: 3}
+    answer: "tra\u0131n"
+  - questionImage: {fileID: 21300000, guid: 05fe69972793042448bcc76f5824366e, type: 3}
+    answer: "tsh\u0131rt"
+  - questionImage: {fileID: 21300000, guid: 6e3979fcaf455aa4fbeac86e8a018f14, type: 3}
+    answer: vet
+  - questionImage: {fileID: 21300000, guid: 4cb1d3b625e4a4949a284879f0f865dc, type: 3}
+    answer: yellow
